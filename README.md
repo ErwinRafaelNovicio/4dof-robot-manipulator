@@ -5,7 +5,7 @@
 **Industrial Robotics (062092) · Politecnico di Milano · A.Y. 2025/26**
 School of Industrial and Information Engineering, M.Sc. Mechanical Engineering
 
-*Simone Bucci · Thomas Monaco · Erwin Novicio*
+*Simone Bucci · Thomas Monaco · Erwin Rafael Novicio*
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 ![Simscape](https://img.shields.io/badge/Simscape-Multibody-blue)
