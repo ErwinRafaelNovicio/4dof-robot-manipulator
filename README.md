@@ -1,1 +1,0 @@
-# 4dof-robot-manipulator
